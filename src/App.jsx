@@ -16,7 +16,7 @@ function App() {
 //chinu changes at 12.44
 
 //print hello world(SUNNY)
-//change by chinu the same line
+//chinu=dds========
   return (
     <>       
       <WetherApp />
@@ -25,3 +25,5 @@ function App() {
 }
 //hello worl by CHINU
 export default App;
+
+//changed by chinu in the last line
